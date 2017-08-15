@@ -1,0 +1,6 @@
+[
+  { "model": "lamborgini", "hp": 700 },
+  { "model": "ferrari", "hp": 550 },
+  { "model": "lada", "hp": 70 },
+  { "model": "jeep", "hp": 400 }
+]
